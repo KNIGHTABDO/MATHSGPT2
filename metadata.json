@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Scholar Pro",
+  "description": "An advanced web application that leverages the Gemini API to solve user-uploaded exercises, provide data visualizations, generate audio explanations, and engage in real-time conversations. Features include image analysis, web search grounding, and a high-performance thinking mode for complex problems.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
